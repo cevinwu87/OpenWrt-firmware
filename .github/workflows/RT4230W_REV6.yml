@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: RAC2V1K
+name: RT4230W_REV6
 
 on:
   repository_dispatch:
