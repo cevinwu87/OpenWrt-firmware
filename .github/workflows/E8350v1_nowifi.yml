@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Linksys E8350v1
+name:E8350v1_nowifi
 
 on:
   repository_dispatch:
